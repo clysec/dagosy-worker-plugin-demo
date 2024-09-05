@@ -1,0 +1,12 @@
+{
+    "name": "Dagosy Demo Plugin",
+    "slug": "dagosy-demo-plugin",
+    "description": "Demo plugin for Dagosy",
+    "versions": {
+        "1.0.0": {
+            "src": "https://plugins.dagosy.com/v1/dagosy-demo-plugin/1.0.0/plugin.so",
+            "apiVersion": "v1",
+            "namespace": "dagdemo"
+        }
+    }
+}
